@@ -1,7 +1,8 @@
 
 let 快速订阅访问入口 = ['auto'];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = [icook.tw:2053#优选域名
+cloudflare.cfgo.cc#优选官方线路];
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
